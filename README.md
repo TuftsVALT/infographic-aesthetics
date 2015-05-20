@@ -1,3 +1,5 @@
+![Results Chart](preview.png?raw=true)
+
 Infographic Aesthetics: Designing for the First Impression
 ===
 
